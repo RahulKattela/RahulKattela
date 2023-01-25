@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahulKattela
-- 👀 I am Data Science
+- 👀 I am an AI enthusiast
 - 📫 You can reach me at rkattela.ds@gmail.com
 
 <!---
